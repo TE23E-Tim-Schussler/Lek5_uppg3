@@ -1,0 +1,89 @@
+
+#header{
+    background-color:#35424a;
+    border-bottom:3px solid #e8491d;
+
+}
+.container{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.container2{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+ 
+}
+.small{
+    font-size: smaller;
+}
+h2{
+    color:white;
+}
+.nav{
+    padding-top: 30px;
+    color:white;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.branding{
+    color:#e8491d;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+#showcase{
+background-image: url(img/showcase.jpg);
+background-size: cover;
+color:white;
+background-color:#35424a;
+background-repeat: no-repeat;
+background-size: cover;
+}
+#mid{
+    background-color:#35424a;
+    text-align: center;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+.Subscribe{
+    color:white;
+    margin-top: 20px;
+    background-color: #e8491d;
+    border:5px solid #e8491d;
+}
+.Mail{
+    margin-top: 20px;
+    margin-left:30%;
+    color:gray;
+    border:1px solid gray;
+}
+#lower{
+    padding-top:20px;
+    background-color:gainsboro;
+    color:black;
+}
+.bild{
+    height:100px;
+}
+#bottom{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    background-color: #e8491d;
+    color:white;
+    text-align: center;
+}
